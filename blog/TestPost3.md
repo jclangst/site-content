@@ -5,3 +5,8 @@ publishDate: "2020-01-01T00:00"
 ---
 ### Hey there you
 *This* is a test post!
+
+```javascript
+// here is some test code
+const jack = 'awesome';
+```
